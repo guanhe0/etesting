@@ -349,32 +349,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Introduction_for_LAMP_with_Docker/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Introduction_for_LAMP_with_Docker</title>
-        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
-        
-        <tag>All</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Quick_Deployment.4D02/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -394,6 +368,32 @@
           
              
               <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Introduction_for_LAMP_with_Docker/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Introduction_for_LAMP_with_Docker</title>
+        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
+        
+        <tag>All</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
           
         </display>
     </data>
