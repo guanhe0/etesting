@@ -147,32 +147,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Deploy_Manual.4D03</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
-        
-        <tag>D03</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="D03" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D03/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D05/Deploy_Manual.4D05/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -192,32 +166,6 @@
           
              
               <breadCrumb title="D05" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D05/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Deploy_Manual.4HiKey.md</title>
-        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
-        
-        <tag>HiKey</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
           
         </display>
     </data>
@@ -251,6 +199,58 @@
 
     
   <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy_Manual.4D03</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        
+        <tag>D03</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="D03" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D03/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy_Manual.4HiKey.md</title>
+        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
+        
+        <tag>HiKey</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/Grub_Manual.4All/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -258,9 +258,9 @@
         <title>Grub_Manual.4ALL</title>
         <pubTime>2016-10-10T02:11:01.000Z</pubTime>
         
-        <tag>D03</tag>
-         
         <tag>D05</tag>
+         
+        <tag>D03</tag>
          
          
            
@@ -458,11 +458,11 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.lttng/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.perf/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>README.armor.lttng.md</title>
+        <title>README.armor.perf.md</title>
         <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>All</tag>
@@ -484,11 +484,11 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.perf/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.lttng/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>README.armor.perf.md</title>
+        <title>README.armor.lttng.md</title>
         <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>All</tag>
@@ -796,29 +796,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/virtualization/docker/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Docker</title>
-        <pubTime>2016-09-20T07:05:40.000Z</pubTime>
-        
-        <tag>Docker</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="virtualization" url="http://guanhe0.github.io/etesting/categories/Estuary/virtualization/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Tools/VCS/everyday-git/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -835,6 +812,29 @@
           
              
               <breadCrumb title="VCS" url="http://guanhe0.github.io/etesting/categories/Tools/VCS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/virtualization/docker/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Docker</title>
+        <pubTime>2016-09-20T07:05:40.000Z</pubTime>
+        
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="virtualization" url="http://guanhe0.github.io/etesting/categories/Estuary/virtualization/"/>
           
         </display>
     </data>
@@ -867,12 +867,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-in-common/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-save-empty-dir/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>git常用命令</title>
-        <pubTime>2016-09-22T03:00:27.000Z</pubTime>
+        <title>用git保存空目录</title>
+        <pubTime>2016-09-22T03:07:36.000Z</pubTime>
         
         <tag>git</tag>
          
@@ -890,12 +890,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-save-empty-dir/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-in-common/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>用git保存空目录</title>
-        <pubTime>2016-09-22T03:07:36.000Z</pubTime>
+        <title>git常用命令</title>
+        <pubTime>2016-09-22T03:00:27.000Z</pubTime>
         
         <tag>git</tag>
          

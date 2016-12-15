@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
-    
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D05/Deploy_Manual.4D05/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
@@ -72,14 +65,21 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
+    
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.lttng/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.perf/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.perf/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/README.armor.lttng/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -233,14 +233,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/virtualization/docker/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/VCS/everyday-git/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/VCS/everyday-git/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/virtualization/docker/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -254,14 +254,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-in-common/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-save-empty-dir/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-save-empty-dir/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/VCS/git-in-common/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
