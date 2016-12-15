@@ -264,6 +264,152 @@
             
               
                 
+                <a class="post-title-link" href="/etesting/Estuary/Documents/All/Toolchains_Guide.4All/" itemprop="url">
+                  Toolchains_Guide.4All.md
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
+              2016-10-10
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
+                    <span itemprop="name">Estuary</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
+                    <span itemprop="name">Documents</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/All/" itemprop="url" rel="index">
+                    <span itemprop="name">All</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/etesting/Estuary/Documents/All/Toolchains_Guide.4All/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/Toolchains_Guide.4All/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>This is the guide for toolchains</p>
+          <div class="post-more-link text-center">
+            <a class="btn" href="/etesting/Estuary/Documents/All/Toolchains_Guide.4All/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/etesting/Estuary/Documents/All/Distributions_Guide.4All/" itemprop="url">
                   Distributions_Guild.4All.md
                 </a>
@@ -410,8 +556,8 @@
             
               
                 
-                <a class="post-title-link" href="/etesting/Estuary/Documents/All/README.armor.perf/" itemprop="url">
-                  README.armor.perf.md
+                <a class="post-title-link" href="/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/" itemprop="url">
+                  Setup_PXE_Env_on_Host.4All.md
                 </a>
               
             
@@ -478,168 +624,8 @@
             
               <span class="post-comments-count">
                 &nbsp; | &nbsp;
-                <a href="/etesting/Estuary/Documents/All/README.armor.perf/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/README.armor.perf/" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-          
-          
-
-          
-        </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          
-            <a id="more"></a>
-<p><strong>Readme for Ubuntu ARM64</strong></p>
-<p>Install the latest perf binary*<br><code>$# sudo apt-get install linux-tools-3.19.0-23</code><br>The latest version availabe can be installed.<br>Now use the perf tool installed in <code>/usr/lib/linux-tools-3.19.0-23/perf</code><br><code>$# /usr/lib/linux-tools-3.19.0-23/perf stat -e L1-dcache-stores ls -l</code></p>
-<p>The LLC, MN and DDR are added as RAW events.<br>The RAW event encoding format is as below<br><code>&lt;die ID(4 bit)&gt;&lt;Module ID(4 bit)&gt;&lt;Bank(4 bit)&gt;&lt;event code(12 bit)&gt;</code></p>
-<p>Example: For LLC_READ_ALLOCATE event for TotemC will be 0x24f300, where 0x2 is DieID for TotemC, 0x4 is the ModuleID of LLC, 0xf is for all LLC banks, 0x300is the event code for LLC_READ_ALLOCATE<br>The Module ID’s are as below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">LLC	= 0x4</div><div class="line">MN	= 0xb</div><div class="line">DDRC0	= 0x8</div><div class="line">DDRC1	= 0xd</div></pre></td></tr></table></figure></p>
-<p>The DieID for the CPU Die are as below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">SOC0_TOTEMA = 0x1 /* TOTEM A <span class="keyword">in</span> Socket 0 */</div><div class="line">SOC0_TOTEMC = 0x2</div><div class="line">SOC0_TOTEMB = 0x3</div><div class="line">SOC1_TOTEMA = 0x4</div><div class="line">SOC1_TOTEMC = 0x5</div><div class="line">SOC1_TOTEMB = 0x6</div></pre></td></tr></table></figure></p>
-<p>The 22 LLC events are added as RAW events starting from 0x300 to 0x315<br>The 9 MN event codes and also the DDRC read, write and latecy counters, event codes are listed below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div></pre></td><td class="code"><pre><div class="line">LLC_READ_ALLOCATE 		= 0x300</div><div class="line">LLC_WRITE_ALLOCATE 		= 0x301</div><div class="line">LLC_READ_NOALLOCATE		= 0x302</div><div class="line">LLC_WRITE_NOALLOCATE		= 0x303</div><div class="line">LLC_READ_HIT			= 0x304</div><div class="line">LLC_WRITE_HIT			= 0x305</div><div class="line">LLC_CMO_REQUEST			= 0x306</div><div class="line">LLC_COPYBACK_REQ		= 0x307</div><div class="line">LLC_HCCS_SNOOP_REQ		= 0x308</div><div class="line">LLC_SMMU_REQ			= 0x309</div><div class="line">LLC_EXCL_SUCCESS		= 0x30A</div><div class="line">LLC_EXCL_FAIL			= 0x30B</div><div class="line">LLC_CACHELINE_OFLOW		= 0x30C</div><div class="line">LLC_RECV_ERR			= 0x30D</div><div class="line">LLC_RECV_PREFETCH		= 0x30E</div><div class="line">LLC_RETRY_REQ			= 0x30F</div><div class="line">LLC_DGRAM_2B_ECC		= 0x310</div><div class="line">LLC_TGRAM_2B_ECC		= 0x311</div><div class="line">LLC_SPECULATE_SNOOP		= 0x312</div><div class="line">LLC_SPECULATE_SNOOP_SUCCESS	= 0x313</div><div class="line">LLC_TGRAM_1B_ECC		= 0x314</div><div class="line">LLC_DGRAM_1B_ECC		= 0x315</div><div class="line"></div><div class="line">MN_EO_BARR_REQ			= 0x316</div><div class="line">MN_EC_BARR_REQ			= 0x317</div><div class="line">MN_DVM_OP_REQ			= 0x318</div><div class="line">MN_DVM_SYNC_REQ			= 0x319</div><div class="line">MN_READ_REQ			= 0x31A</div><div class="line">MN_WRITE_REQ			= 0x31B</div><div class="line">MN_COPYBK_REQ			= 0x31C</div><div class="line">MN_OTHER_REQ			= 0x31D</div><div class="line">MN_RETRY_REQ			= 0x31E</div><div class="line"></div><div class="line">DDRC0_FLUX_READ_BW		= 0x31F</div><div class="line">DDRC0_FLUX_WRITE_BW		= 0x320</div><div class="line">DDRC0_FLUX_READ_LAT		= 0x321</div><div class="line">DDRC0_FLUX_WRITE_LAT		= 0x322</div><div class="line">DDRC1_FLUX_READ_BW		= 0x323</div><div class="line">DDRC1_FLUX_WRITE_BW		= 0x324</div><div class="line">DDRC1_FLUX_READ_LAT		= 0x325</div><div class="line">DDRC1_FLUX_WRITE_LAT		= 0x326</div></pre></td></tr></table></figure></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count LLC_WRITE_NOALLOCATE and LLC_READ_ALLOCATE for TotemC</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tols-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r24f303 <span class="_">-e</span> r24f300 ls <span class="_">-l</span></div></pre></td></tr></table></figure>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count MN_EO_BARR_REQ and LLC_READ_ALLOCATE for TotemA</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tols-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r1bf316 <span class="_">-e</span> r14f300 ls <span class="_">-l</span></div></pre></td></tr></table></figure>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count LLC_READ_HIT and LLC_WRITE_HIT for a process with pid</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tools-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r24f304,r24f305 -p &lt;pid&gt;</div></pre></td></tr></table></figure>
-<p>Known Issues:</p>
-<ol>
-<li><p>As Hisilicon hardware counters are not CPU core specific, the counter values maynot be accurate. To get more accurate count. please append the option “-C 0 -A” in perf stat command.<br><code>$# perf stat -C 0 -A -e r24f303 -e r24f300 ls -l</code></p>
-</li>
-<li><p>As the counter registers in Hisiilicon are config and accessed via Djtag interface, it can affect the event counter readings as the access is not atomic.</p>
-</li>
-</ol>
-
-          
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/" itemprop="url">
-                  UEFI_Manual.4D02.md
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            <span class="post-meta-item-icon">
-              <i class="fa fa-calendar-o"></i>
-            </span>
-            <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
-              2016-10-10
-            </time>
-          </span>
-
-          
-            <span class="post-category" >
-              &nbsp; | &nbsp;
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
-                    <span itemprop="name">Estuary</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
-                    <span itemprop="name">Documents</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/D02/" itemprop="url" rel="index">
-                    <span itemprop="name">D02</span>
-                  </a>
-                </span>
-
-                
-                
-
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/D02/UEFI_Manual.4D02/" itemprop="commentsCount"></span>
+                <a href="/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/" itemprop="commentsCount"></span>
                 </a>
               </span>
             
@@ -665,11 +651,13 @@
         
           <ul>
 <li><a href="#1">Introduction</a></li>
-<li><a href="#2">Upgrade UEFI</a></li>
-<li><a href="#3">Recover the UEFI when it broke</a></li>
+<li><a href="#2">Setup DHCP server on Ubuntu</a></li>
+<li><a href="#3">Setup TFTP server on Ubuntu</a></li>
+<li><a href="#4">Put files in the TFTP root path</a></li>
+<li><a href="#5">Setup NFS server on Ubuntu</a></li>
 </ul>
           <div class="post-more-link text-center">
-            <a class="btn" href="/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/#more" rel="contents">
+            <a class="btn" href="/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1012,6 +1000,317 @@
             
               
                 
+                <a class="post-title-link" href="/etesting/Estuary/Documents/All/Setup_HiKey_WiFi_Env.4HiKey/" itemprop="url">
+                  Setup_HiKey_WiFi_Env.4HiKey.md
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
+              2016-10-10
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
+                    <span itemprop="name">Estuary</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
+                    <span itemprop="name">Documents</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/All/" itemprop="url" rel="index">
+                    <span itemprop="name">All</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/etesting/Estuary/Documents/All/Setup_HiKey_WiFi_Env.4HiKey/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/Setup_HiKey_WiFi_Env.4HiKey/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <ul>
+<li><a href="#1">Config WiFi On mini-rootfs systerm</a></li>
+<li><a href="#2">Config WiFi On Ubuntu &amp; Debian systerm</a></li>
+<li><a href="#3">Fedora &amp;&amp; CentOS wifi configure</a></li>
+<li><a href="#4">OpenSuse Wifi configure</a></li>
+</ul>
+          <div class="post-more-link text-center">
+            <a class="btn" href="/etesting/Estuary/Documents/All/Setup_HiKey_WiFi_Env.4HiKey/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/etesting/Estuary/Documents/All/README.armor.perf/" itemprop="url">
+                  README.armor.perf.md
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
+              2016-10-10
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
+                    <span itemprop="name">Estuary</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
+                    <span itemprop="name">Documents</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/etesting/categories/Estuary/Documents/All/" itemprop="url" rel="index">
+                    <span itemprop="name">All</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/etesting/Estuary/Documents/All/README.armor.perf/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/README.armor.perf/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <a id="more"></a>
+<p><strong>Readme for Ubuntu ARM64</strong></p>
+<p>Install the latest perf binary*<br><code>$# sudo apt-get install linux-tools-3.19.0-23</code><br>The latest version availabe can be installed.<br>Now use the perf tool installed in <code>/usr/lib/linux-tools-3.19.0-23/perf</code><br><code>$# /usr/lib/linux-tools-3.19.0-23/perf stat -e L1-dcache-stores ls -l</code></p>
+<p>The LLC, MN and DDR are added as RAW events.<br>The RAW event encoding format is as below<br><code>&lt;die ID(4 bit)&gt;&lt;Module ID(4 bit)&gt;&lt;Bank(4 bit)&gt;&lt;event code(12 bit)&gt;</code></p>
+<p>Example: For LLC_READ_ALLOCATE event for TotemC will be 0x24f300, where 0x2 is DieID for TotemC, 0x4 is the ModuleID of LLC, 0xf is for all LLC banks, 0x300is the event code for LLC_READ_ALLOCATE<br>The Module ID’s are as below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">LLC	= 0x4</div><div class="line">MN	= 0xb</div><div class="line">DDRC0	= 0x8</div><div class="line">DDRC1	= 0xd</div></pre></td></tr></table></figure></p>
+<p>The DieID for the CPU Die are as below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">SOC0_TOTEMA = 0x1 /* TOTEM A <span class="keyword">in</span> Socket 0 */</div><div class="line">SOC0_TOTEMC = 0x2</div><div class="line">SOC0_TOTEMB = 0x3</div><div class="line">SOC1_TOTEMA = 0x4</div><div class="line">SOC1_TOTEMC = 0x5</div><div class="line">SOC1_TOTEMB = 0x6</div></pre></td></tr></table></figure></p>
+<p>The 22 LLC events are added as RAW events starting from 0x300 to 0x315<br>The 9 MN event codes and also the DDRC read, write and latecy counters, event codes are listed below<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div></pre></td><td class="code"><pre><div class="line">LLC_READ_ALLOCATE 		= 0x300</div><div class="line">LLC_WRITE_ALLOCATE 		= 0x301</div><div class="line">LLC_READ_NOALLOCATE		= 0x302</div><div class="line">LLC_WRITE_NOALLOCATE		= 0x303</div><div class="line">LLC_READ_HIT			= 0x304</div><div class="line">LLC_WRITE_HIT			= 0x305</div><div class="line">LLC_CMO_REQUEST			= 0x306</div><div class="line">LLC_COPYBACK_REQ		= 0x307</div><div class="line">LLC_HCCS_SNOOP_REQ		= 0x308</div><div class="line">LLC_SMMU_REQ			= 0x309</div><div class="line">LLC_EXCL_SUCCESS		= 0x30A</div><div class="line">LLC_EXCL_FAIL			= 0x30B</div><div class="line">LLC_CACHELINE_OFLOW		= 0x30C</div><div class="line">LLC_RECV_ERR			= 0x30D</div><div class="line">LLC_RECV_PREFETCH		= 0x30E</div><div class="line">LLC_RETRY_REQ			= 0x30F</div><div class="line">LLC_DGRAM_2B_ECC		= 0x310</div><div class="line">LLC_TGRAM_2B_ECC		= 0x311</div><div class="line">LLC_SPECULATE_SNOOP		= 0x312</div><div class="line">LLC_SPECULATE_SNOOP_SUCCESS	= 0x313</div><div class="line">LLC_TGRAM_1B_ECC		= 0x314</div><div class="line">LLC_DGRAM_1B_ECC		= 0x315</div><div class="line"></div><div class="line">MN_EO_BARR_REQ			= 0x316</div><div class="line">MN_EC_BARR_REQ			= 0x317</div><div class="line">MN_DVM_OP_REQ			= 0x318</div><div class="line">MN_DVM_SYNC_REQ			= 0x319</div><div class="line">MN_READ_REQ			= 0x31A</div><div class="line">MN_WRITE_REQ			= 0x31B</div><div class="line">MN_COPYBK_REQ			= 0x31C</div><div class="line">MN_OTHER_REQ			= 0x31D</div><div class="line">MN_RETRY_REQ			= 0x31E</div><div class="line"></div><div class="line">DDRC0_FLUX_READ_BW		= 0x31F</div><div class="line">DDRC0_FLUX_WRITE_BW		= 0x320</div><div class="line">DDRC0_FLUX_READ_LAT		= 0x321</div><div class="line">DDRC0_FLUX_WRITE_LAT		= 0x322</div><div class="line">DDRC1_FLUX_READ_BW		= 0x323</div><div class="line">DDRC1_FLUX_WRITE_BW		= 0x324</div><div class="line">DDRC1_FLUX_READ_LAT		= 0x325</div><div class="line">DDRC1_FLUX_WRITE_LAT		= 0x326</div></pre></td></tr></table></figure></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count LLC_WRITE_NOALLOCATE and LLC_READ_ALLOCATE for TotemC</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tols-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r24f303 <span class="_">-e</span> r24f300 ls <span class="_">-l</span></div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count MN_EO_BARR_REQ and LLC_READ_ALLOCATE for TotemA</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tols-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r1bf316 <span class="_">-e</span> r14f300 ls <span class="_">-l</span></div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># To count LLC_READ_HIT and LLC_WRITE_HIT for a process with pid</span></div><div class="line"><span class="variable">$#</span> /usr/lib/linux-tools-3.19.0-23/perf <span class="built_in">stat</span> <span class="_">-e</span> r24f304,r24f305 -p &lt;pid&gt;</div></pre></td></tr></table></figure>
+<p>Known Issues:</p>
+<ol>
+<li><p>As Hisilicon hardware counters are not CPU core specific, the counter values maynot be accurate. To get more accurate count. please append the option “-C 0 -A” in perf stat command.<br><code>$# perf stat -C 0 -A -e r24f303 -e r24f300 ls -l</code></p>
+</li>
+<li><p>As the counter registers in Hisiilicon are config and accessed via Djtag interface, it can affect the event counter readings as the access is not atomic.</p>
+</li>
+</ol>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/etesting/Estuary/Documents/All/README.armor.lttng/" itemprop="url">
                   README.armor.lttng.md
                 </a>
@@ -1113,155 +1412,6 @@
 </ul>
           <div class="post-more-link text-center">
             <a class="btn" href="/etesting/Estuary/Documents/All/README.armor.lttng/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/" itemprop="url">
-                  README.armor.kgdb.kdb.md
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            <span class="post-meta-item-icon">
-              <i class="fa fa-calendar-o"></i>
-            </span>
-            <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
-              2016-10-10
-            </time>
-          </span>
-
-          
-            <span class="post-category" >
-              &nbsp; | &nbsp;
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
-                    <span itemprop="name">Estuary</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
-                    <span itemprop="name">Documents</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/All/" itemprop="url" rel="index">
-                    <span itemprop="name">All</span>
-                  </a>
-                </span>
-
-                
-                
-
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/README.armor.kgdb.kdb/" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-          
-          
-
-          
-        </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <ul>
-<li><a href="#1">Readme for KGDB and KDB Tools</a></li>
-<li><a href="#2">Debugging using KGDB</a></li>
-</ul>
-          <div class="post-more-link text-center">
-            <a class="btn" href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1458,8 +1608,8 @@
             
               
                 
-                <a class="post-title-link" href="/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/" itemprop="url">
-                  Deploy_Manual.4HiKey.md
+                <a class="post-title-link" href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/" itemprop="url">
+                  README.armor.kgdb.kdb.md
                 </a>
               
             
@@ -1472,7 +1622,7 @@
               <i class="fa fa-calendar-o"></i>
             </span>
             <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-10-10T10:08:01+08:00" content="2016-10-10">
+            <time itemprop="dateCreated" datetime="2016-10-10T10:10:01+08:00" content="2016-10-10">
               2016-10-10
             </time>
           </span>
@@ -1510,8 +1660,8 @@
 
               
                 <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/HiKey/" itemprop="url" rel="index">
-                    <span itemprop="name">HiKey</span>
+                  <a href="/etesting/categories/Estuary/Documents/All/" itemprop="url" rel="index">
+                    <span itemprop="name">All</span>
                   </a>
                 </span>
 
@@ -1526,8 +1676,8 @@
             
               <span class="post-comments-count">
                 &nbsp; | &nbsp;
-                <a href="/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/HiKey/Deploy_Manual.4HiKey/" itemprop="commentsCount"></span>
+                <a href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/All/README.armor.kgdb.kdb/" itemprop="commentsCount"></span>
                 </a>
               </span>
             
@@ -1552,176 +1702,11 @@
       
         
           <ul>
-<li><a href="#1">Introduction</a></li>
-<li><a href="#2">Preparation</a><ul>
-<li><a href="#2.1">Hardware Connect</a></li>
-<li><a href="#2.2">PC Environment</a></li>
-<li><a href="#2.3">Image File</a></li>
-</ul>
-</li>
-<li><a href="#3">Upgrade Systerm</a><ul>
-<li><a href="#3.1">Flash Uefi image to eMMC</a></li>
-<li><a href="#3.2">Flash Boot image to eMMC</a></li>
-<li><a href="#3.3">Update Distrubition</a><ul>
-<li><a href="#3.3.1">SD card placing this ubuntu systerm</a></li>
-<li><a href="#3.3.2">eMMC on HiKey placing this ubuntu systerm</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#4">Appendix 1: Partition Information</a> </li>
+<li><a href="#1">Readme for KGDB and KDB Tools</a></li>
+<li><a href="#2">Debugging using KGDB</a></li>
 </ul>
           <div class="post-more-link text-center">
-            <a class="btn" href="/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/etesting/Estuary/Documents/D05/UEFI_Manual.4D05/" itemprop="url">
-                  UEFI_Manual.4D05
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            <span class="post-meta-item-icon">
-              <i class="fa fa-calendar-o"></i>
-            </span>
-            <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-10-10T10:08:01+08:00" content="2016-10-10">
-              2016-10-10
-            </time>
-          </span>
-
-          
-            <span class="post-category" >
-              &nbsp; | &nbsp;
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/" itemprop="url" rel="index">
-                    <span itemprop="name">Estuary</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/" itemprop="url" rel="index">
-                    <span itemprop="name">Documents</span>
-                  </a>
-                </span>
-
-                
-                
-                  ， 
-                
-
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/etesting/categories/Estuary/Documents/D05/" itemprop="url" rel="index">
-                    <span itemprop="name">D05</span>
-                  </a>
-                </span>
-
-                
-                
-
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/etesting/Estuary/Documents/D05/UEFI_Manual.4D05/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="Estuary/Documents/D05/UEFI_Manual.4D05/" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-          
-          
-
-          
-        </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <ul>
-<li><a href="#1">Introduction</a></li>
-<li><a href="#2">Upgrade UEFI</a></li>
-<li><a href="#3">Recover the UEFI when it broke</a>
-          <div class="post-more-link text-center">
-            <a class="btn" href="/etesting/Estuary/Documents/D05/UEFI_Manual.4D05/#more" rel="contents">
+            <a class="btn" href="/etesting/Estuary/Documents/All/README.armor.kgdb.kdb/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1796,7 +1781,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/etesting/archives">
-              <span class="site-state-item-count">54</span>
+              <span class="site-state-item-count">56</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>

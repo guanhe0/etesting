@@ -4,14 +4,45 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/uncategorized/guanhe-new-post/</loc>
+    <lastmod>2016-12-15T08:36:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>guanhe new post</title>
+        <pubTime>2016-12-15T08:36:02.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/uncategorized/guanhe-etesting/</loc>
+    <lastmod>2016-12-15T08:23:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy manual for RP on D03<!--标题--></title>
+        <pubTime>2016-12-14T08:14:09.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>Setup_PXE_Env_on_Host.4All.md</title>
+        <title>UEFI_Manual.4D02.md</title>
         <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
-        <tag>All</tag>
+        <tag>D02</tag>
          
          
            
@@ -22,85 +53,7 @@
               <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
           
              
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Armor_Manual.4ALL.md</title>
-        <pubTime>2016-10-13T02:07:01.000Z</pubTime>
-        
-        <tag>All</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/ALL/Armor_Tools_Supported.4All/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Armor_Tools_Supported.4All.md</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
-        
-        <tag>ALL</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="ALL" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/ALL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Caliper_Manual.4All/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Caliper_Manual.4All.md</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
-        
-        <tag>All</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+              <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
           
         </display>
     </data>
@@ -246,32 +199,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Distributions_Guild.4All.md</title>
-        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
-        
-        <tag>All</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -291,6 +218,32 @@
           
              
               <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Distributions_Guild.4All.md</title>
+        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
+        
+        <tag>All</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
           
         </display>
     </data>
@@ -609,32 +562,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Readme.4HiKey/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Readme.4HiKey.md</title>
-        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
-        
-        <tag>HiKey</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D05/Readme.4D05/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -654,6 +581,32 @@
           
              
               <breadCrumb title="D05" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D05/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Readme.4HiKey/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Readme.4HiKey.md</title>
+        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
+        
+        <tag>HiKey</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
           
         </display>
     </data>
@@ -713,12 +666,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Tools_Basic_Info.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>Armor_Tools_Basic_Info.4All.md</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        <title>Setup_PXE_Env_on_Host.4All.md</title>
+        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>All</tag>
          
@@ -765,14 +718,14 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Tools_Basic_Info.4All/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>UEFI_Manual.4D02.md</title>
-        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
+        <title>Armor_Tools_Basic_Info.4All.md</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
         
-        <tag>D02</tag>
+        <tag>All</tag>
          
          
            
@@ -783,7 +736,7 @@
               <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
           
              
-              <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
           
         </display>
     </data>
@@ -960,6 +913,58 @@
 
     
   <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Armor_Manual.4ALL.md</title>
+        <pubTime>2016-10-13T02:07:01.000Z</pubTime>
+        
+        <tag>All</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/ALL/Armor_Tools_Supported.4All/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Armor_Tools_Supported.4All.md</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        
+        <tag>ALL</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="ALL" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/ALL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hello-world/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -1006,12 +1011,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-deploy/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-commands/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo 部署</title>
-        <pubTime>2016-10-02T14:16:29.000Z</pubTime>
+        <title>Hexo 命令</title>
+        <pubTime>2016-10-01T01:52:54.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -1029,12 +1034,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-commands/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-deploy/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo 命令</title>
-        <pubTime>2016-10-01T01:52:54.000Z</pubTime>
+        <title>Hexo 部署</title>
+        <pubTime>2016-10-02T14:16:29.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -1332,5 +1337,31 @@
 
     
     
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Caliper_Manual.4All/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Caliper_Manual.4All.md</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        
+        <tag>All</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
 </urlset>

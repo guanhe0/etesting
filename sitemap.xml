@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/uncategorized/guanhe-new-post/</loc>
     
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
-    
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <lastmod>2016-12-15T08:36:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/ALL/Armor_Tools_Supported.4All/</loc>
+    <loc>http://guanhe0.github.io/guanhe-etesting-page/index.html</loc>
     
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <lastmod>2016-12-15T08:30:06.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Caliper_Manual.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/uncategorized/guanhe-etesting/</loc>
+    
+    <lastmod>2016-12-15T08:23:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Distributions_Guide.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -170,14 +170,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Readme.4HiKey/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D05/Readme.4D05/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D05/Readme.4D05/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Readme.4HiKey/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Tools_Basic_Info.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/UEFI_Manual.4D02/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Tools_Basic_Info.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -268,6 +268,20 @@
   </url>
   
   <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
+    
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/ALL/Armor_Tools_Supported.4All/</loc>
+    
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hello-world/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
@@ -282,14 +296,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-deploy/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-commands/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-commands/</loc>
+    <loc>http://guanhe0.github.io/etesting/Tools/Hexo/hexo-deploy/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -388,6 +402,13 @@
   
   <url>
     <loc>http://guanhe0.github.io/categories/index.html</loc>
+    
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Caliper_Manual.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
