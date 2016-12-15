@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy-manual-for-RP-on-D03/</loc>
     
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <lastmod>2016-12-15T06:19:41.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Deploy_Manual.4D02/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Deploy_Manual.4D02/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -73,6 +73,13 @@
   
   <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/HiKey/Deploy_Manual.4HiKey/</loc>
+    
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
@@ -100,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Quick_Deployment.4D02/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Introduction_for_LAMP_with_Docker/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Introduction_for_LAMP_with_Docker/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Quick_Deployment.4D02/</loc>
     
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     

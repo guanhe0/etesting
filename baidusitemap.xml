@@ -4,14 +4,16 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy-manual-for-RP-on-D03/</loc>
+    <lastmod>2016-12-15T06:19:41.000Z</lastmod>
     <data>
         <display>
-        <title>Setup_PXE_Env_on_Host.4All.md</title>
-        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
+        <title>Deploy manual for RP on D003</title>
+        <pubTime>2016-11-25T01:56:44.000Z</pubTime>
         
-        <tag>All</tag>
+        <tag>D03</tag>
+         
+        <tag>RP</tag>
          
          
            
@@ -22,7 +24,7 @@
               <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
           
              
-              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+              <breadCrumb title="D03" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D03/"/>
           
         </display>
     </data>
@@ -30,12 +32,12 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Setup_PXE_Env_on_Host.4All/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
         <display>
-        <title>Armor_Manual.4ALL.md</title>
-        <pubTime>2016-10-13T02:07:01.000Z</pubTime>
+        <title>Setup_PXE_Env_on_Host.4All.md</title>
+        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>All</tag>
          
@@ -168,6 +170,32 @@
 
     
   <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Armor_Manual.4All/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Armor_Manual.4ALL.md</title>
+        <pubTime>2016-10-13T02:07:01.000Z</pubTime>
+        
+        <tag>All</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Deploy_Manual.4D02/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -187,32 +215,6 @@
           
              
               <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Deploy_Manual.4D03</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
-        
-        <tag>D03</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="D03" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D03/"/>
           
         </display>
     </data>
@@ -265,6 +267,32 @@
           
              
               <breadCrumb title="HiKey" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/HiKey/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D03/Deploy_Manual.4D03/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy_Manual.4D03</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        
+        <tag>D03</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="D03" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D03/"/>
           
         </display>
     </data>
@@ -349,32 +377,6 @@
 
     
   <url>
-    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Quick_Deployment.4D02/</loc>
-    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Quick_Deployment.4D02.md</title>
-        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
-        
-        <tag>D02</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
-          
-             
-              <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://guanhe0.github.io/etesting/Estuary/Documents/All/Introduction_for_LAMP_with_Docker/</loc>
     <lastmod>2016-11-21T02:30:53.000Z</lastmod>
     <data>
@@ -394,6 +396,32 @@
           
              
               <breadCrumb title="All" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/All/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://guanhe0.github.io/etesting/Estuary/Documents/D02/Quick_Deployment.4D02/</loc>
+    <lastmod>2016-11-21T02:30:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Quick_Deployment.4D02.md</title>
+        <pubTime>2016-10-09T02:07:01.000Z</pubTime>
+        
+        <tag>D02</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="http://guanhe0.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/"/>
+          
+             
+              <breadCrumb title="D02" url="http://guanhe0.github.io/etesting/categories/Estuary/Documents/D02/"/>
           
         </display>
     </data>
